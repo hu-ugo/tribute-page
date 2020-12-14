@@ -1,0 +1,48 @@
+body {
+  margin: 10px auto;
+  max-width: 1000px;
+  width: 90%;
+}
+
+header {
+  text-align: center;
+}
+
+header p {
+  margin-top: 0;
+}
+
+#title {
+  letter-spacing: 4px;
+  font-family: 'Playfair Display', serif;
+}
+
+#img-div {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 10px auto;
+}
+
+#img-caption {
+  text-align: right;
+  margin-right: 50px;
+  margin-top: 0;
+}
+
+#tribute-info {
+  padding: 30px;
+  font-family: 'Titillium Web', sans-serif;
+  text-align: justify;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.par {
+  font-family: 'Titillium Web', sans-serif;
+}
